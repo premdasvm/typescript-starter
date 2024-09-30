@@ -4,6 +4,6 @@
 
 ### Scripts
 
-#### `npm run start:dev`
+#### `pnpm run start:dev`
 
-Starts the application in development using `nodemon` and `ts-node` to do hot reloading.
+Starts the application in development using [tsx](https://tsx.is/), with hot reloading.
