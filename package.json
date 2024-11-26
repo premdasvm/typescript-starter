@@ -10,8 +10,8 @@
   "author": "prem",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^22.0.0",
-    "tsx": "^4.19.1",
-    "typescript": "^5.3.3"
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
   }
 }
